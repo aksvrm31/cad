@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1ee4137-1bb0-4cbf-a38e-7fcf5c07f033" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZnOhMhGTyxqEMvNW5bCMlFwHOx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1ee4137-1bb0-4cbf-a38e-7fcf5c07f033" name="Default Changelist" comment="" />
+      <created>1585471510001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585471510001</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586108159835">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1586108159835" />
+    <state x="208" y="43" width="1144" height="837" key="SettingsEditor" timestamp="1586108044333">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" width="1144" height="837" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1586108044333" />
+    <state x="150" y="165" key="new project wizard" timestamp="1586104281294">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="150" y="165" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1586104281294" />
+  </component>
+</project>
